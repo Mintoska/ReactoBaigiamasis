@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "userName": "Mintoska",
+      "email": "mintas@inbox.lt",
+      "avatarURL": "https://png.pngtree.com/png-vector/20201224/ourmid/pngtree-future-intelligent-technology-robot-ai-png-image_2588803.jpg",
+      "password": "Aa1234",
+      "id": "1b11f17b-4487-4a77-acf8-6c884a6b2dd4"
+    },
+    {
+      "userName": "Adas",
+      "email": "adas@gmail.com",
+      "avatarURL": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "password": "Zx9874",
+      "id": "f0f9fd82-0adb-4c97-90d0-7d97a77ee653"
+    },
+    {
+      "userName": "Karolis",
+      "email": "kar@email.com",
+      "avatarURL": "https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg",
+      "password": "Zx1111",
+      "id": "9d053dfc-44fa-4576-95b0-9d04ddc007fe"
+    }
+  ],
+  "questions": [
+    {
+      "tema": "kažką prisidirbau :( red",
+      "aprasymas": "Keistai čia viskas dingo - ką manot? Pushas sugriovė? ",
+      "userId": "1b11f17b-4487-4a77-acf8-6c884a6b2dd4",
+      "id": "e7dcaf72-36a5-4483-9a7f-91135613da91",
+      "likes": 8,
+      "dislikes": 3,
+      "editDate": "2023-05-23T15:06:21.909Z",
+      "postai": [
+        {
+          "id": "226ac7a9-2d1b-46db-bee5-edf3a16e5bd7",
+          "user": "Mintoska",
+          "text": "reiktia patikrinti"
+        },
+        {
+          "id": "211e876e-1cab-476a-aaeb-79df31afc9fe",
+          "user": "Adas",
+          "text": "neaisku kodel"
+        },
+        {
+          "id": "5ff6676f-86f9-408f-b9c5-f02ab3060588",
+          "user": "Mintoska",
+          "text": "regis supratau bėdą"
+        }
+      ]
+    },
+    {
+      "tema": "kažkas nevyksta",
+      "aprasymas": "kur info?",
+      "userId": "1b11f17b-4487-4a77-acf8-6c884a6b2dd4",
+      "id": "1934029a-f9f3-4518-9dc2-b159bf8a959a",
+      "likes": 1,
+      "dislikes": 0,
+      "postai": [
+        {
+          "id": "93bb08ea-348c-4933-b41a-df6d19447d77",
+          "user": "Mintoska",
+          "text": "kol kas nieko bera"
+        }
+      ]
+    },
+    {
+      "tema": "Ar AI tai žmonijos pabaiga?",
+      "aprasymas": "Ką manot, ar pakeis dirbtinis Intelektas daugiau nei pusę darbo vietų?",
+      "userId": "f0f9fd82-0adb-4c97-90d0-7d97a77ee653",
+      "id": "1722ee6f-2b4e-46f1-993d-2163739e9f6c",
+      "likes": 1,
+      "dislikes": 2,
+      "postai": []
+    },
+    {
+      "tema": "Gal kas Arduino?",
+      "aprasymas": "Ieškome Arduino robotikos projektų komandos nario",
+      "userId": "9d053dfc-44fa-4576-95b0-9d04ddc007fe",
+      "id": "ec421325-4584-4310-a816-6e68bcbaa6bf"
+    }
+  ]
+}
