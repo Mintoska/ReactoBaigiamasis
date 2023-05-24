@@ -46,7 +46,7 @@ const StyledMain = styled.main`
             width: 755px;
             background-color: white;
             padding: 5px 0;
-            border-radius: var(--br);
+            border-radius: 5px;
             display: flex;
             justify-content: space-between;
             > div {
@@ -66,7 +66,7 @@ const StyledMain = styled.main`
             height: 2rem;
             border: none;
             background-color: white;
-            border-radius: var(--br);
+            border-radius: 5px;
             padding: 3px 10px;
         }
         > botton:hover{
@@ -89,7 +89,7 @@ const StyledDiv = styled.div`
             margin: 0;
             border: 1px solid white;
             padding: 5px 10px;
-            border-radius: var(--br);
+            border-radius: 5px;
         }
         > div {
             display: flex;
@@ -99,13 +99,13 @@ const StyledDiv = styled.div`
                     margin: 0;
                 }
                 > a {
-                    color: var(--links);
+                    color: #d2541e;
                     > svg{
                         font-size: 2rem;
                     }
                 }
                 > svg {
-                    color: var(--links);
+                    color: #d2541e;
                     font-size: 2rem;
                 }
         }

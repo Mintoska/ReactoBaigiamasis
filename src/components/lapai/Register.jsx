@@ -24,8 +24,8 @@ const StyledMain = styled.main`
                 display: block;
                 background-color: white;
                 color: black;
-                border-top-left-radius: var(--br);
-                border-bottom-left-radius: var(--br);
+                border-top-left-radius: 5px;
+                border-bottom-left-radius: 5px;
                 line-height: 2rem;
                 padding-left: 10px;
                 width: 150px;
@@ -35,8 +35,8 @@ const StyledMain = styled.main`
                 height: 2rem;
                 border: none;
                 background-color: white;
-                border-top-right-radius: var(--br);
-                border-bottom-right-radius: var(--br);
+                border-top-right-radius: 5px;
+                border-bottom-right-radius: 5px;
                 padding: 0px 10px;
             }
         }
@@ -44,7 +44,7 @@ const StyledMain = styled.main`
             height: 2rem;
             border: none;
             background-color: white;
-            border-radius: var(--br);
+            border-radius: 5px;
             padding: 3px 10px;
         }
         > p {
@@ -54,7 +54,7 @@ const StyledMain = styled.main`
     }
     a {
         text-decoration: none;
-        color: var(--links);
+        color: #d2541e;
     }
 `;
 

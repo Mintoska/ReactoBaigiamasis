@@ -3,12 +3,6 @@
 
 
 :root{
-    --bgMain: #1b1b1f;
-    --bgInputs: #353539;
-    --bgSide: #3a3a3f;
-    --bgLight: #fefefe;
-    --links: #d2541e;
-    --br: 0.5rem;
     background-color: #21202c;
     font-weight: 200;
     text-decoration: none;

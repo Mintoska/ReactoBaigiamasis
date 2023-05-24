@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import HomeMainView from "../pagrindiniai/HomeMainView";
+import Mainas from "../pagrindiniai/Mainas";
 
 const Titulinis = styled.main`
     min-height: 90%;
@@ -10,7 +10,7 @@ const Titulinis = styled.main`
 const Home = () => {
     return ( 
         <Titulinis>
-            <HomeMainView />
+            <Mainas />
         </Titulinis>
     );
 }

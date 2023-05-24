@@ -37,13 +37,13 @@ const StyledDiv = styled.div`
                 margin: 0;
                 border: 1px solid white;
                 padding: 5px 10px;
-                border-radius: var(--br);
+                border-radius: 5px;
             }
         }
         a {
             margin: 0;
             text-decoration: none;
-            color: var(--links);
+            color: #d2541e;
             > h3{
                 margin: 5px 0;
             }

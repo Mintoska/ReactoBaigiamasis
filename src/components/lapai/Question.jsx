@@ -49,13 +49,13 @@ const StyledDiv = styled.div`
                     margin: 0;
                 }
                 > a {
-                    color: var(--links);
+                    color: #d2541e;
                     > svg{
                         font-size: 2rem;
                     }
                 }
                 > svg {
-                    color: var(--links);
+                    color: #d2541e;
                     font-size: 2rem;
                 }
         }
